@@ -6,4 +6,6 @@
 
 Повече информация за използваните технологии и хардуерни компоненти за проекта може да откриете в качената презентация.
 
+Краен резултат:
+
 <img width="958" alt="image" src="https://github.com/KristiyanBogdanov/PURPLE/blob/main/Images/PURPLE1.jpg">
